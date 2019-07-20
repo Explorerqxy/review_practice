@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5faaef73-cded-4dbb-8421-9c47219ce250" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/004.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001.py" beforeDir="false" afterPath="$PROJECT_DIR$/001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/003.py" beforeDir="false" afterPath="$PROJECT_DIR$/003.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,9 +36,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="003.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="003.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/003.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="004.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/004.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -52,6 +64,8 @@
       <list>
         <option value="$PROJECT_DIR$/001.py" />
         <option value="$PROJECT_DIR$/002.py" />
+        <option value="$PROJECT_DIR$/003.py" />
+        <option value="$PROJECT_DIR$/004.py" />
       </list>
     </option>
   </component>
@@ -65,7 +79,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="1561" />
+    <option name="x" value="1528" />
     <option name="y" value="30" />
     <option name="width" value="1777" />
     <option name="height" value="1050" />
@@ -147,7 +161,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1561" y="30" width="1777" height="1050" extended-state="4" />
+    <frame x="1528" y="30" width="1777" height="1050" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -200,7 +214,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/003.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/004.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
