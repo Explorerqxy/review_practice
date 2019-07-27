@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5faaef73-cded-4dbb-8421-9c47219ce250" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/032.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,24 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="003.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/003.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="006.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/006.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="023.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/023.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,8 +68,8 @@
       <file leaf-file-name="027.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/027.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            <state>
+              <caret selection-end-line="4" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -96,8 +77,8 @@
       <file leaf-file-name="028.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/028.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" selection-start-line="1" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="459">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -111,11 +92,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="030.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="030.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/030.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="513">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="031.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/031.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="032.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/032.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-161">
+              <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -158,6 +157,8 @@
         <option value="$PROJECT_DIR$/028.py" />
         <option value="$PROJECT_DIR$/029.py" />
         <option value="$PROJECT_DIR$/030.py" />
+        <option value="$PROJECT_DIR$/031.py" />
+        <option value="$PROJECT_DIR$/032.py" />
       </list>
     </option>
   </component>
@@ -401,14 +402,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/005.py'" />
-    <entry file="file://$PROJECT_DIR$/006.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/007.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -706,17 +699,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/027.py">
+    <entry file="file://$PROJECT_DIR$/030.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="513">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/028.py">
+    <entry file="file://$PROJECT_DIR$/031.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" selection-start-line="1" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="567">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -727,10 +720,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/030.py">
+    <entry file="file://$PROJECT_DIR$/028.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="459">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/027.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/032.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
         </state>
       </provider>
     </entry>
