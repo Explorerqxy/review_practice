@@ -38,6 +38,7 @@ def CheckMoreThanHalf(numbers, length, number):
         isMoreThanHalf = False
     return isMoreThanHalf
 
+
 if __name__ == '__main__':
     a = [1,2,2,2,2,2,2,2,5,6,7,8]
     r = MoreThanHalfNum(a, 12)
