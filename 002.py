@@ -1,3 +1,4 @@
+#不修改数组找出重复数字
 def getDuplication(numbers, length):
     if numbers == None or length <= 0:
         return -1
