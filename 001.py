@@ -15,4 +15,4 @@ def duplicate(numbers, length):
     return False
 
 #代码中尽管有一个两重循环，但每个数字最多只要交换两次就可以找到属于它的位置，因此总的时间复杂度是O（n）
-
+#数组中重复的数字
