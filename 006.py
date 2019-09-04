@@ -1,3 +1,4 @@
+#快速排序
 import random
 def Partition(data, length, start, end):
     if data == None or length <= 0 or start <0 or end >= length:
