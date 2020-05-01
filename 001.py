@@ -1,3 +1,4 @@
+#数组中重复的数字
 def duplicate(numbers, length):
     if numbers == None or length <= 0:
         return False

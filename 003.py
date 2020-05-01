@@ -1,3 +1,4 @@
+#二位数组中的查找
 def Find(matrix, rows, columns, number):
     found = False
     if matrix != None and rows > 0 and columns > 0:

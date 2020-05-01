@@ -1,3 +1,4 @@
+#替换空格
 def ReplaceBlank(string, length):
     if string == None or length <= 0:
         return

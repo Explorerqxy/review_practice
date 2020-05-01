@@ -4,6 +4,8 @@
 #         self.val = x
 #         self.next = None
 
+
+#从尾到头打印链表
 def PrintListReversingly_Iteratively(pHead):
     nodes = []
     pNode = pHead
